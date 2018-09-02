@@ -16,7 +16,9 @@
 title: Delta Education
 email: pasha.rayan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Delta Specialist Education is a boutique tuition firm specialising in HSC English tuition – we teach nothing else.
+  Delta Specialist Education is a boutique tuition firm 
+  specialising in HSC English tuition – we teach nothing else.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
